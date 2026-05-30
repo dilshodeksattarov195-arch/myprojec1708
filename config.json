@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentderify",
+        "uuid": 13061076,
+        "checksum": "ybvcjv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
